@@ -38,6 +38,7 @@
             android:id="@+id/addressbar"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
+            android:imeOptions="actionDone"
             android:importantForAutofill="no"
             android:inputType="textUri"
             app:layout_constraintBottom_toBottomOf="parent"
